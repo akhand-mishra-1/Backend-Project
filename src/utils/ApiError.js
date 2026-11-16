@@ -1,4 +1,4 @@
-class ApiResponse {
+class ApiError {
 
     constructor(statusCode ,data ,message ="Success")
     {
